@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-base",
+  "version": "0.0.1",
+  "description": "vuepress init project",
+  "main": "index.js",
+  "authors": {
+    "name": "dev-zuo",
+    "email": "xx@xx.com"
+  },
+  "repository": "/vuepress-base",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
